@@ -1,4 +1,4 @@
-### Привет2!!! 👋
+# Работа над проектом мобильного приложения
 
 <!--
 **Watasen/Watasen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
